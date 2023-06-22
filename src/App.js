@@ -45,7 +45,7 @@ function App() {
                 showalert={showalert}
                 heading="ManupulateText - word counter, Character counter, Remove extra spaces"
                 mode={mode}
-            />}> 
+            /> 
              
            {/* </Route> */}
           { /*</Routes> */}
